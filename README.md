@@ -37,3 +37,25 @@ The project is structured logically with separate components and asset folders:
 │
 ├── style.css           # Main cascading stylesheet handling core design
 └── quotes.txt          # Client testimonials or structural quote logs
+```
+
+## 🛠️ Built With
+- HTML5: Semantic architecture for structured web content.
+
+- CSS3: Custom styles, grids, flexboxes, and responsive media queries.
+
+- JavaScript: Lightweight client-side interactions and form logic.
+
+## 💻 Getting Started
+To view and run this project locally, follow these simple steps:
+
+### 1. Clone the repository:
+```bash 
+git clone [https://github.com/dnmeghana/Real_estate_website.git](https://github.com/dnmeghana/Real_estate_website.git)
+```
+### 2. Navigate into the directory:
+```bash
+cd Real_estate_website
+```
+### 3. Launch the site:
+Simply double-click `index (2).html` or open it using any modern web browser (Chrome, Safari, Firefox, Edge).
